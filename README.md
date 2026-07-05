@@ -99,6 +99,8 @@ bashstreamlit run app.py
 
 ServicePlatformLinkBackend (FastAPI)Rendermovie-rec-asqx.onrender.comFrontend (Streamlit)Streamlit CloudLive App
 
+url link : https://movie-rec-gdej6hwq7udlzkxqt255k2.streamlit.app/
+
 
 👨‍💻 Author
 
